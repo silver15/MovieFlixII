@@ -103,3 +103,15 @@
     margin-top: 20px;
   }
 }
+
+@media (min-width: 1200px) {
+    .movie-details-card  {
+        height: 610px;
+        border: #ffc700;
+      }
+
+      .img-container img {
+        width: 500px;
+        height: 314px;
+      }
+  }

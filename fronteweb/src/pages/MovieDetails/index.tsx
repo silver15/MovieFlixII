@@ -1,6 +1,8 @@
 import './styles.css';
 
 const MovieDetails = () => {
+
+
   return (
     <div className="movie-details-container">
       <div className="base-card movie-details-card">
@@ -20,7 +22,13 @@ const MovieDetails = () => {
                
             </div>
             <div className="description-container">
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit, fuga.</p>
+                <p>Onde está Gary? Segundo Bob Esponja, Gary foi 
+                    \"caracolstrado\" pelo temível Rei Poseidon e 
+                    levado para a cidade perdida de Atlantic City. 
+                    Junto a Patrick Estrela, ele sai em uma missão 
+                    de resgate ao querido amigo, e nesta jornada os 
+                    dois vão conhecer novos personagens e viver 
+                    inimagináveis aventuras."</p>
             </div>
           </div>
         </div>
